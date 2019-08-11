@@ -10,7 +10,7 @@ vue + ts + vuex + axios
 
 react + ts + redux + axios
 
-后端
+### 后端
 
 golang + gin + go-sql-driver/mysql
 
