@@ -1,0 +1,23 @@
+.home {
+  .wrapper {
+    position: relative;
+    height: 100vh;
+  }
+
+  .cat-top {
+    height: 50vh;
+    background-color: #faefbd;
+  }
+
+  .cat-bottom {
+    height: 50vh;
+    background-color: #c1dfa9;
+  }
+
+  canvas {
+    position: absolute;
+    top: 0px;
+    width: 600px;
+    height: 400px;
+  }
+}
